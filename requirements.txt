@@ -1,0 +1,8 @@
+matplotlib==3.1.0
+numpy==1.18.1
+pandas==1.0.4
+h5py==2.8.0
+seaborn==0.9.0
+yasa==0.3.0
+tqdm==4.32.2
+loguru==0.5.1
