@@ -1,5 +1,5 @@
 # yasa_evaluation
-A tool that runs Yet Another Spindle Algorithm (YASA) on a proprietary dataset (VSN-14-080) using a proprietary scoring for spindles. This is the work behind my Masters thesis (link here: LINK).
+A tool that runs Yet Another Spindle Algorithm (YASA) on a proprietary dataset (VSN-14-080) using a proprietary scoring for spindles. This is the work behind my Masters thesis (link here: http://hdl.handle.net/1946/39415).
 
 ## Installation instructions
 
